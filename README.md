@@ -2,4 +2,4 @@
 This is a azure devops repo
 
 
-## This is edited in Cloud Shell
+[![.github/workflows/main.yml](https://github.com/JonasKnaup/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/JonasKnaup/azure-devops/actions/workflows/main.yml)
